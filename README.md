@@ -327,3 +327,5 @@ git config --list
 ```
 
 🔹<strong>10.</strong> Pronto, git instalado e configurado com sucesso!
+
+Disponibilizado por [Willian Souza](https://www.linkedin.com/in/willian-souza/ "Willian Souza").
